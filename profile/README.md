@@ -1,7 +1,9 @@
-The EarthyScience organization at the [Max Planck Institute for Biogeochemistry](https://www.bgc-jena.mpg.de/en) is committed to advancing our understanding of Earth's biogeochemical processes through cutting-edge research. Our scientific mission focuses on integrating long-term in-situ observations with Earth observations collected via aircraft and satellites, spanning multiple spatial scales. To analyze and interpret these complex datasets, we combine data-driven machine learning approaches with theory-driven mechanistic modeling.
+**EarthyScience** — *Max Planck Institute for Biogeochemistry*
 
-This GitHub organization serves as a central hub for our software development efforts, hosting and linking to various tools and packages that support our research. Our repositories feature software designed to process, analyze, and visualize large, multidimensional environmental datasets. One prominent example is [YAXArrays.jl](https://github.com/JuliaDataCubes/YAXArrays.jl), a Julia package optimized for handling large-scale, multidimensional datasets common in Earth system science.
+We develop open-source software in support of research on biogeochemical cycles and the interactions between the biosphere, the atmosphere, the geosphere, and the entire climate system. Our work combines long-term in-situ observations with airborne and satellite Earth observations across spatial scales, embracing both data-driven machine learning and mechanistic modelling.
 
-Our interdisciplinary team, with expertise in environmental science, data science, and software engineering, is dedicated to developing advanced tools for Earth system research. By making our software open-source and accessible on this platform, we aim to foster collaboration within the scientific community and drive progress in biogeochemistry and related fields.
+**Where to Start?**
 
-We invite contributions from researchers and developers with interests in Earth system science, big data analysis, and scientific software development. Our repositories reflect our commitment to open science and reproducible research, advancing the study of Earth's complex biogeochemical systems.
+- New here? Visit our [teams and research](https://www.bgc-jena.mpg.de/en/bgi/home) page for an overview of our work.
+- Looking for a specific tool? Browse [earthyscience.github.io](https://earthyscience.github.io) for a full list of repositories and code projects — including packages hosted here and in other organizations where our members are active contributors.
+- Interested in contributing? Check the individual repositories for open issues and contribution guidelines.
